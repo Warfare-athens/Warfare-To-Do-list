@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    color: white;
+    font-family: poppins;
+    overflow-x: hidden;
+    
+}
